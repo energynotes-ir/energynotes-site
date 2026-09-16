@@ -4,6 +4,23 @@
   "site_url": "https://energynotes.ir",
   "notes": [
     {
+      "title": "اقتصاد اول حرکت می‌کند یا انرژی؟",
+      "slug": "energy-consumption-economic-growth",
+      "summary": "روایتی از فراتحلیل ۳۹ مطالعه و ۱۷۴ نمونه که نشان می‌دهد چرا پژوهش‌ها دربارهٔ رابطهٔ مصرف برق و رشد اقتصادی به یک پاسخ واحد نمی‌رسند.",
+      "topics": [
+        "downstream"
+      ],
+      "featured": false,
+      "reading_minutes": 10,
+      "sources": [
+        {
+          "title": "Energy consumption and economic growth—New evidence from meta analysis",
+          "type": "paper",
+          "publisher": "Energy Policy / Elsevier"
+        }
+      ]
+    },
+    {
       "title": "چرا قرارداد نفتی به‌تنهایی فناوری نمی‌آورد؟",
       "slug": "upstream-technology-transfer-iran",
       "summary": "روایتی از مقالهٔ مسعود درخشان و عاطفه تکلیف دربارهٔ این‌که انتقال فناوری در بالادستی نفت به ظرفیت جذب، یادگیری عملیاتی، اولویت‌گذاری و نهادی نیاز دارد که بازار فناوری را به حرکت درآورد.",
@@ -89,23 +106,6 @@
       ]
     },
     {
-      "title": "اقتصاد اول حرکت می‌کند یا انرژی؟",
-      "slug": "energy-consumption-economic-growth",
-      "summary": "روایتی از فراتحلیل ۳۹ مطالعه و ۱۷۴ نمونه که نشان می‌دهد چرا پژوهش‌ها دربارهٔ رابطهٔ مصرف برق و رشد اقتصادی به یک پاسخ واحد نمی‌رسند.",
-      "topics": [
-        "downstream"
-      ],
-      "featured": false,
-      "reading_minutes": 10,
-      "sources": [
-        {
-          "title": "Energy consumption and economic growth—New evidence from meta analysis",
-          "type": "paper",
-          "publisher": "Energy Policy / Elsevier"
-        }
-      ]
-    },
-    {
       "title": "وقتی بنزین گران می‌شود، رفاه کجا می‌رود؟",
       "slug": "gasoline-pricing-welfare-iran",
       "summary": "روایتی از مطالعه‌ای دربارهٔ تقاضای بنزین در ایران که میان اثر مستقیم افزایش قیمت و اثر هم‌زمان درآمد و اقتصاد کلان فرق می‌گذارد.",
@@ -154,12 +154,12 @@
     "/topics/upstream/",
     "/topics/midstream/",
     "/topics/downstream/",
+    "/notes/energy-consumption-economic-growth/",
     "/notes/upstream-technology-transfer-iran/",
     "/notes/energy-geopolitics-oil-gas/",
     "/notes/russian-oil-gas-investment-policy/",
     "/notes/nioc-government-financial-relation/",
     "/notes/petroleum-operations-risk-management/",
-    "/notes/energy-consumption-economic-growth/",
     "/notes/gasoline-pricing-welfare-iran/",
     "/actors/bassam-fattouh/"
   ]
