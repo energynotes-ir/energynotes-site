@@ -89,6 +89,23 @@
       ]
     },
     {
+      "title": "اقتصاد اول حرکت می‌کند یا انرژی؟",
+      "slug": "energy-consumption-economic-growth",
+      "summary": "روایتی از فراتحلیل ۳۹ مطالعه و ۱۷۴ نمونه که نشان می‌دهد چرا پژوهش‌ها دربارهٔ رابطهٔ مصرف برق و رشد اقتصادی به یک پاسخ واحد نمی‌رسند.",
+      "topics": [
+        "downstream"
+      ],
+      "featured": false,
+      "reading_minutes": 10,
+      "sources": [
+        {
+          "title": "Energy consumption and economic growth—New evidence from meta analysis",
+          "type": "paper",
+          "publisher": "Energy Policy / Elsevier"
+        }
+      ]
+    },
+    {
       "title": "وقتی بنزین گران می‌شود، رفاه کجا می‌رود؟",
       "slug": "gasoline-pricing-welfare-iran",
       "summary": "روایتی از مطالعه‌ای دربارهٔ تقاضای بنزین در ایران که میان اثر مستقیم افزایش قیمت و اثر هم‌زمان درآمد و اقتصاد کلان فرق می‌گذارد.",
@@ -142,6 +159,7 @@
     "/notes/russian-oil-gas-investment-policy/",
     "/notes/nioc-government-financial-relation/",
     "/notes/petroleum-operations-risk-management/",
+    "/notes/energy-consumption-economic-growth/",
     "/notes/gasoline-pricing-welfare-iran/",
     "/actors/bassam-fattouh/"
   ]
