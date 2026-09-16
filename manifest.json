@@ -1,0 +1,148 @@
+{
+  "generator": "energynotes",
+  "stage": "production",
+  "site_url": "https://energynotes.ir",
+  "notes": [
+    {
+      "title": "چرا قرارداد نفتی به‌تنهایی فناوری نمی‌آورد؟",
+      "slug": "upstream-technology-transfer-iran",
+      "summary": "روایتی از مقالهٔ مسعود درخشان و عاطفه تکلیف دربارهٔ این‌که انتقال فناوری در بالادستی نفت به ظرفیت جذب، یادگیری عملیاتی، اولویت‌گذاری و نهادی نیاز دارد که بازار فناوری را به حرکت درآورد.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 16,
+      "sources": [
+        {
+          "title": "انتقال و توسعه فناوری در بخش بالادستی صنعت نفت ایران: ملاحظاتی در مفاهیم، الزامات، چالش‌ها و راهکارها",
+          "type": "article",
+          "publisher": "پژوهشنامه اقتصاد انرژی ایران"
+        }
+      ]
+    },
+    {
+      "title": "وقتی خط لوله فقط خط لوله نیست",
+      "slug": "energy-geopolitics-oil-gas",
+      "summary": "روایتی از نگاه Fred B. Olayele به پیوند قیمت انرژی، مسیرهای انتقال و تصمیم‌های سیاسی؛ جایی که نفت و گاز روی نقشهٔ قدرت کشورها هم اثر می‌گذارند.",
+      "topics": [
+        "midstream"
+      ],
+      "featured": false,
+      "reading_minutes": 10,
+      "sources": [
+        {
+          "title": "The Geopolitics of Oil and Gas",
+          "type": "article",
+          "publisher": "International Association for Energy Economics"
+        }
+      ]
+    },
+    {
+      "title": "میدان نفتی فقط با چاه ساخته نمی‌شود",
+      "slug": "russian-oil-gas-investment-policy",
+      "summary": "روایتی از مطالعه‌ای دربارهٔ سیاست سرمایه‌گذاری روسیه در میادین نفت و گاز؛ از هزینه و ریسک زمین‌شناسی تا فناوری، زیرساخت و مسیرهای صادرات.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 10,
+      "sources": [
+        {
+          "title": "Features of Investment Policy in the Development and Operation of Oil and Gas Fields in the Modern Russian Economy",
+          "type": "paper",
+          "publisher": "نسخهٔ PDF ارسالی"
+        }
+      ]
+    },
+    {
+      "title": "شرکت ملی نفت؛ خزانه‌دار دولت یا موتور توسعه؟",
+      "slug": "nioc-government-financial-relation",
+      "summary": "روایتی از گزارش مرکز پژوهش‌های مجلس دربارهٔ اصلاح رابطهٔ مالی شرکت ملی نفت ایران و دولت؛ مسئله‌ای که از سهم هر بشکه شروع می‌شود و به سرمایه‌گذاری، حکمرانی و آیندهٔ تولید می‌رسد.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 13,
+      "sources": [
+        {
+          "title": "مسائل راهبردی بخش انرژی در برنامه هفتم توسعه (۳): اصلاح ساختاری رابطه مالی شرکت ملی نفت ایران و دولت",
+          "type": "report",
+          "publisher": "مرکز پژوهش‌های مجلس شورای اسلامی"
+        }
+      ]
+    },
+    {
+      "title": "ریسک فقط وقتی فوران می‌کند دیده نمی‌شود",
+      "slug": "petroleum-operations-risk-management",
+      "summary": "بازخوانی روایی مقالهٔ ژانگ یانتینگ و شینگ لی‌یون دربارهٔ ریسک در عملیات نفتی؛ از زمین و هوا تا تجهیزات، آدم‌ها، روابط محلی، سرمایه و سیاست.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 10,
+      "sources": [
+        {
+          "title": "Research on Risk Management of Petroleum Operations",
+          "type": "article",
+          "publisher": "Energy Procedia / Elsevier"
+        }
+      ]
+    },
+    {
+      "title": "وقتی بنزین گران می‌شود، رفاه کجا می‌رود؟",
+      "slug": "gasoline-pricing-welfare-iran",
+      "summary": "روایتی از مطالعه‌ای دربارهٔ تقاضای بنزین در ایران که میان اثر مستقیم افزایش قیمت و اثر هم‌زمان درآمد و اقتصاد کلان فرق می‌گذارد.",
+      "topics": [
+        "downstream"
+      ],
+      "featured": false,
+      "reading_minutes": 5,
+      "sources": [
+        {
+          "title": "Gasoline Demand, Pricing Policy and Social Welfare in the Islamic Republic of Iran",
+          "type": "paper",
+          "publisher": "OPEC Review"
+        },
+        {
+          "title": "Gasoline Demand, Pricing Policy and Social Welfare in Iran",
+          "type": "pdf",
+          "publisher": "Surrey Energy Economics Centre"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "title": "بسام فتوح؛ وقتی قیمت نفت فقط یک عدد نیست",
+      "slug": "bassam-fattouh",
+      "summary": "روایتی از نگاه بسام فتوح به سازوکار قیمت‌گذاری نفت خام؛ از نفت‌های مرجع و گزارشگران قیمت تا پیوند بازار فیزیکی و مالی.",
+      "actor_type": "expert",
+      "sources": [
+        {
+          "title": "An Anatomy of the Crude Oil Pricing System",
+          "type": "working-paper",
+          "publisher": "Oxford Institute for Energy Studies"
+        }
+      ]
+    }
+  ],
+  "routes": [
+    "/",
+    "/search/",
+    "/about/",
+    "/actors/",
+    "/404.html",
+    "/rss.xml",
+    "/sitemap.xml",
+    "/topics/upstream/",
+    "/topics/midstream/",
+    "/topics/downstream/",
+    "/notes/upstream-technology-transfer-iran/",
+    "/notes/energy-geopolitics-oil-gas/",
+    "/notes/russian-oil-gas-investment-policy/",
+    "/notes/nioc-government-financial-relation/",
+    "/notes/petroleum-operations-risk-management/",
+    "/notes/gasoline-pricing-welfare-iran/",
+    "/actors/bassam-fattouh/"
+  ]
+}
