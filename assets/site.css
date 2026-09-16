@@ -1064,7 +1064,6 @@ h1 {
 .article__header p { max-width: 48ch; margin-top: 1.2rem; color: var(--ink-soft); font-size: 1.1rem; }
 .article__cover { max-width: 30rem; margin: 2rem 0 0; overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius-md); background: var(--panel-soft); }
 .article__cover img { display: block; width: 100%; max-height: 32rem; object-fit: cover; filter: saturate(0.72) contrast(1.08) brightness(0.76); }
-.article__cover figcaption { padding: 0.7rem 0.85rem; color: var(--ink); background: var(--panel); font-size: 0.75rem; line-height: 1.7; }
 .article__cover--fallback { position: relative; height: min(32rem, 62vw); min-height: 15rem; }
 .article__body { color: var(--ink-soft); font-size: clamp(1.04rem, 1.45vw, 1.17rem); line-height: 2.15; }
 .article__body > * + * { margin-top: 1.45em; }
