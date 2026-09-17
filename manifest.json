@@ -4,6 +4,23 @@
   "site_url": "https://energynotes.ir",
   "notes": [
     {
+      "title": "پالایشگاه چرا نفت کوره تولید می‌کند؟",
+      "slug": "iran-refinery-fuel-oil",
+      "summary": "روایتی از گزارش مرکز پژوهش‌های مجلس دربارهٔ سهم بالای نفت کوره در پالایشگاه‌های ایران؛ مسئله‌ای که از جنس نفت خام شروع می‌شود و به خوراک، فناوری و تأمین مالی می‌رسد.",
+      "topics": [
+        "downstream"
+      ],
+      "featured": false,
+      "reading_minutes": 9,
+      "sources": [
+        {
+          "title": "مسائل راهبردی بخش انرژی در برنامه هفتم توسعه (۲): کاهش سهم نفت کوره در سبد پالایشی کشور",
+          "type": "report",
+          "publisher": "مرکز پژوهش‌های مجلس شورای اسلامی"
+        }
+      ]
+    },
+    {
       "title": "اقتصاد اول حرکت می‌کند یا انرژی؟",
       "slug": "energy-consumption-economic-growth",
       "summary": "روایتی از فراتحلیل ۳۹ مطالعه و ۱۷۴ نمونه که نشان می‌دهد چرا پژوهش‌ها دربارهٔ رابطهٔ مصرف برق و رشد اقتصادی به یک پاسخ واحد نمی‌رسند.",
@@ -154,6 +171,7 @@
     "/topics/upstream/",
     "/topics/midstream/",
     "/topics/downstream/",
+    "/notes/iran-refinery-fuel-oil/",
     "/notes/energy-consumption-economic-growth/",
     "/notes/upstream-technology-transfer-iran/",
     "/notes/energy-geopolitics-oil-gas/",
