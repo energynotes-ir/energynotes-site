@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 80" role="img" aria-labelledby="title desc" shape-rendering="geometricPrecision">
+  <title id="title">Energy Notes light header lockup</title>
+  <desc id="desc">The Energy Notes modular stencil E mark with an Octin Stencil wordmark for light surfaces.</desc>
+  <rect x="8" y="8" width="37.647" height="64" fill="#263238"/>
+  <g fill="#E53935">
+    <rect x="16.471" y="18.353" width="6.588" height="24.588"/>
+    <rect x="16.471" y="44.824" width="6.588" height="16.824"/>
+    <rect x="24.941" y="18.353" width="12.235" height="6.588"/>
+    <rect x="24.941" y="36.353" width="8.471" height="6.588"/>
+    <rect x="24.941" y="55.059" width="12.235" height="6.588"/>
+  </g>
+  <g id="energy-wordmark" data-font-family="Octin Stencil" data-font-style="Regular" fill="#11171A">
+    <path d="M56 0H143V700H56ZM477 0V86H183V0ZM475 700H183V614H475ZM382 330V406H183V330Z" transform="translate(62.000 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M510 700H434V0H510ZM56 0H132V700H56ZM172 501 394 65V250L172 690Z" transform="translate(80.156 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M56 0H143V700H56ZM477 0V86H183V0ZM475 700H183V614H475ZM382 330V406H183V330Z" transform="translate(100.114 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M56 0H142V700H56ZM346 613 396 563V429L346 379H182V303H387L482 398V601L384 700H182V613ZM379 0H469L352 263H264Z" transform="translate(118.270 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M47 583V123L170 0H256V86H200L133 153V550L197 614H256V700H164ZM342 0 421 79V0H504V371H296V310H418V160L344 86H296V0ZM504 601 405 700H296V614H368L418 563V477H504Z" transform="translate(136.868 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M110 700H19L199 283V0H286V273ZM467 700H385L270 421L307 331Z" transform="translate(156.282 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M510 700H434V0H510ZM56 0H132V700H56ZM172 501 394 65V250L172 690Z" transform="translate(184.332 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M47 592V113L160 0H261V86H194L133 147V557L190 614H261V700H155ZM361 614 418 557V147L357 86H301V0H391L504 113V592L396 700H301V614Z" transform="translate(204.290 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M294 0V578H207V0ZM488 700H13V618H488Z" transform="translate(223.704 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M56 0H143V700H56ZM477 0V86H183V0ZM475 700H183V614H475ZM382 330V406H183V330Z" transform="translate(241.384 50.000) scale(0.034000 -0.034000)"/>
+    <path d="M368 322 404 285V140L351 86H291V0H387L491 104V325L411 403H291V322ZM47 601V402L128 322H251V403H171L133 439V563L184 614H251V700H146ZM133 140V232H47V104L151 0H251V86H187ZM386 700H291V614H347L398 563V502H484V601Z" transform="translate(259.540 50.000) scale(0.034000 -0.034000)"/>
+  </g>
+</svg>

@@ -4,6 +4,23 @@
   "site_url": "https://energynotes.ir",
   "notes": [
     {
+      "title": "گذار انرژی، نقشهٔ قدرت را عوض می‌کند",
+      "slug": "energy-transition-geopolitics",
+      "summary": "روایتی از گزارش SWP دربارهٔ اینکه برقی‌شدن و فناوری‌های کم‌کربن چگونه وابستگی‌های قدیمی انرژی را جابه‌جا می‌کنند و هم‌زمان ریسک شبکه، سرمایه و فناوری را بالا می‌برند.",
+      "topics": [
+        "midstream"
+      ],
+      "featured": false,
+      "reading_minutes": 8,
+      "sources": [
+        {
+          "title": "The Geopolitics of Energy Transformation. Governing the Shift: Transformation Dividends, Systemic Risks and New Uncertainties",
+          "type": "report",
+          "publisher": "Stiftung Wissenschaft und Politik (SWP)"
+        }
+      ]
+    },
+    {
       "title": "پالایشگاه چرا نفت کوره تولید می‌کند؟",
       "slug": "iran-refinery-fuel-oil",
       "summary": "روایتی از گزارش مرکز پژوهش‌های مجلس دربارهٔ سهم بالای نفت کوره در پالایشگاه‌های ایران؛ مسئله‌ای که از جنس نفت خام شروع می‌شود و به خوراک، فناوری و تأمین مالی می‌رسد.",
@@ -17,6 +34,23 @@
           "title": "مسائل راهبردی بخش انرژی در برنامه هفتم توسعه (۲): کاهش سهم نفت کوره در سبد پالایشی کشور",
           "type": "report",
           "publisher": "مرکز پژوهش‌های مجلس شورای اسلامی"
+        }
+      ]
+    },
+    {
+      "title": "شرکت نفتی چه وقت ریسک قیمت را می‌پوشاند؟",
+      "slug": "oil-gas-corporate-hedging",
+      "summary": "روایتی از مطالعهٔ G. David Haushalter روی ۱۰۰ تولیدکنندهٔ نفت و گاز؛ جایی که اندازه و ریسک پایه تصمیم شروع پوشش را شکل می‌دهند و بدهی و هزینهٔ تأمین مالی مقدار آن را تغییر می‌دهند.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 9,
+      "sources": [
+        {
+          "title": "Financing Policy, Basis Risk, and Corporate Hedging: Evidence from Oil and Gas Producers",
+          "type": "paper",
+          "publisher": "The Journal of Finance"
         }
       ]
     },
@@ -171,7 +205,9 @@
     "/topics/upstream/",
     "/topics/midstream/",
     "/topics/downstream/",
+    "/notes/energy-transition-geopolitics/",
     "/notes/iran-refinery-fuel-oil/",
+    "/notes/oil-gas-corporate-hedging/",
     "/notes/energy-consumption-economic-growth/",
     "/notes/upstream-technology-transfer-iran/",
     "/notes/energy-geopolitics-oil-gas/",

@@ -15,7 +15,7 @@
   function syncThemeControls() {
     const light = root.dataset.theme === "light";
     const themeColor = document.querySelector('meta[name="theme-color"]');
-    if (themeColor) themeColor.setAttribute("content", light ? "#f4f0eb" : "#0c0715");
+    if (themeColor) themeColor.setAttribute("content", light ? "#E8EDEF" : "#11171A");
     document.querySelectorAll("input[data-theme-toggle]").forEach((input) => {
       input.checked = !light;
       input.setAttribute("aria-label", light ? "فعال‌کردن حالت شب" : "فعال‌کردن حالت روز");
