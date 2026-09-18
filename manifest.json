@@ -21,6 +21,23 @@
       ]
     },
     {
+      "title": "تنگهٔ هرمز؛ از مسیر نفت تا اهرم ارزی",
+      "slug": "hormuz-strait-currency-leverage",
+      "summary": "خوانشی از یک مقالهٔ تحلیلی دربارهٔ این‌که چگونه کنترل یک گلوگاه انرژی می‌تواند به فشار بر مسیرهای پرداخت و نظم پترو‌دلار تبدیل شود؛ بدون ساده‌سازیِ رقابت دلار و یوان به جانشینی فوری.",
+      "topics": [
+        "midstream"
+      ],
+      "featured": false,
+      "reading_minutes": 8,
+      "sources": [
+        {
+          "title": "The Hormuz Gambit: Iran's Weaponisation of the Strait and the Dollar–Yuan Currency War of 2026",
+          "type": "paper",
+          "publisher": "International Security Studies / Geo-Strategic Studies Organisation"
+        }
+      ]
+    },
+    {
       "title": "تاب‌آوری اقتصادی از کجا می‌آید؟",
       "slug": "energy-independence-economic-resilience",
       "summary": "روایتی از پژوهشی دربارهٔ رابطهٔ استقلال انرژی و تاب‌آوری اقتصادی در ۶۸ اقتصاد؛ جایی که کاهش اثر شوک‌های جهانی برای واردکنندگان پررنگ‌تر است، اما صادرکنندگان با چرخهٔ قیمت انرژی و هزینهٔ گذار روبه‌رو می‌شوند.",
@@ -32,6 +49,23 @@
       "sources": [
         {
           "title": "Energy independence and economic resilience",
+          "type": "paper",
+          "publisher": "Energy Policy / Elsevier"
+        }
+      ]
+    },
+    {
+      "title": "انرژی تجدیدپذیر؛ چرا سهم کافی مهم است؟",
+      "slug": "renewable-energy-security-threshold",
+      "summary": "روایتی از پژوهشی روی ۲۷ کشور اتحادیهٔ اروپا که نشان می‌دهد انرژی تجدیدپذیر تنوع سبد انرژی و ریسک ژئوپلیتیک را کاهش می‌دهد، اما برای کاهش وابستگی وارداتی باید به مقیاس و بلوغ کافی برسد.",
+      "topics": [
+        "midstream"
+      ],
+      "featured": false,
+      "reading_minutes": 9,
+      "sources": [
+        {
+          "title": "The rise of renewable energy: How it shapes dependency, diversity, and geopolitical risk in the European Union",
           "type": "paper",
           "publisher": "Energy Policy / Elsevier"
         }
@@ -253,7 +287,9 @@
     "/topics/midstream/",
     "/topics/downstream/",
     "/notes/oil-exploration-risk-analysis/",
+    "/notes/hormuz-strait-currency-leverage/",
     "/notes/energy-independence-economic-resilience/",
+    "/notes/renewable-energy-security-threshold/",
     "/notes/energy-transition-geopolitics/",
     "/notes/iran-refinery-fuel-oil/",
     "/notes/oil-gas-corporate-hedging/",
