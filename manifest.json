@@ -4,6 +4,40 @@
   "site_url": "https://energynotes.ir",
   "notes": [
     {
+      "title": "وقتی ارزش میدان به چند فرض حساس است",
+      "slug": "oil-exploration-risk-analysis",
+      "summary": "روایتی از پژوهشی دربارهٔ به‌کارگیری NPV و EMV برای مقایسهٔ پروژه‌های اکتشاف و تولید نفت؛ جایی که تغییر تولید، قیمت، هزینه و سرمایه رتبهٔ گزینه‌ها را جابه‌جا می‌کند.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 9,
+      "sources": [
+        {
+          "title": "Risk Analysis Applied in Oil Exploration and Production",
+          "type": "paper",
+          "publisher": "Nigerian Journal of Technology"
+        }
+      ]
+    },
+    {
+      "title": "تاب‌آوری اقتصادی از کجا می‌آید؟",
+      "slug": "energy-independence-economic-resilience",
+      "summary": "روایتی از پژوهشی دربارهٔ رابطهٔ استقلال انرژی و تاب‌آوری اقتصادی در ۶۸ اقتصاد؛ جایی که کاهش اثر شوک‌های جهانی برای واردکنندگان پررنگ‌تر است، اما صادرکنندگان با چرخهٔ قیمت انرژی و هزینهٔ گذار روبه‌رو می‌شوند.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 10,
+      "sources": [
+        {
+          "title": "Energy independence and economic resilience",
+          "type": "paper",
+          "publisher": "Energy Policy / Elsevier"
+        }
+      ]
+    },
+    {
       "title": "گذار انرژی، نقشهٔ قدرت را عوض می‌کند",
       "slug": "energy-transition-geopolitics",
       "summary": "روایتی از گزارش SWP دربارهٔ اینکه برقی‌شدن و فناوری‌های کم‌کربن چگونه وابستگی‌های قدیمی انرژی را جابه‌جا می‌کنند و هم‌زمان ریسک شبکه، سرمایه و فناوری را بالا می‌برند.",
@@ -192,6 +226,19 @@
           "publisher": "Oxford Institute for Energy Studies"
         }
       ]
+    },
+    {
+      "title": "حفاری شمال؛ دکل، خدمات و انتقال تجربه",
+      "slug": "north-drilling",
+      "summary": "معرفی روایی شرکت حفاری شمال بر اساس گزارش تفسیری مدیریت؛ از سابقهٔ عملیاتی و خدمات حفاری تا مدیریت دانش و حرکت به سمت پروژه‌های میدان‌محور.",
+      "actor_type": "company",
+      "sources": [
+        {
+          "title": "گزارش تفسیری مدیریت دورهٔ مالی میانی ۹ ماهه منتهی به ۱۴۰۴/۰۹/۳۰",
+          "type": "management-report",
+          "publisher": "سامانهٔ کدال؛ شرکت حفاری شمال"
+        }
+      ]
     }
   ],
   "routes": [
@@ -205,6 +252,8 @@
     "/topics/upstream/",
     "/topics/midstream/",
     "/topics/downstream/",
+    "/notes/oil-exploration-risk-analysis/",
+    "/notes/energy-independence-economic-resilience/",
     "/notes/energy-transition-geopolitics/",
     "/notes/iran-refinery-fuel-oil/",
     "/notes/oil-gas-corporate-hedging/",
@@ -215,6 +264,7 @@
     "/notes/nioc-government-financial-relation/",
     "/notes/petroleum-operations-risk-management/",
     "/notes/gasoline-pricing-welfare-iran/",
-    "/actors/bassam-fattouh/"
+    "/actors/bassam-fattouh/",
+    "/actors/north-drilling/"
   ]
 }
