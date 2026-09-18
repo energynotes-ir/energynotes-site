@@ -4,23 +4,6 @@
   "site_url": "https://energynotes.ir",
   "notes": [
     {
-      "title": "وقتی ارزش میدان به چند فرض حساس است",
-      "slug": "oil-exploration-risk-analysis",
-      "summary": "روایتی از پژوهشی دربارهٔ به‌کارگیری NPV و EMV برای مقایسهٔ پروژه‌های اکتشاف و تولید نفت؛ جایی که تغییر تولید، قیمت، هزینه و سرمایه رتبهٔ گزینه‌ها را جابه‌جا می‌کند.",
-      "topics": [
-        "upstream"
-      ],
-      "featured": false,
-      "reading_minutes": 9,
-      "sources": [
-        {
-          "title": "Risk Analysis Applied in Oil Exploration and Production",
-          "type": "paper",
-          "publisher": "Nigerian Journal of Technology"
-        }
-      ]
-    },
-    {
       "title": "تنگهٔ هرمز؛ از مسیر نفت تا اهرم ارزی",
       "slug": "hormuz-strait-currency-leverage",
       "summary": "خوانشی از یک مقالهٔ تحلیلی دربارهٔ این‌که چگونه کنترل یک گلوگاه انرژی می‌تواند به فشار بر مسیرهای پرداخت و نظم پترو‌دلار تبدیل شود؛ بدون ساده‌سازیِ رقابت دلار و یوان به جانشینی فوری.",
@@ -34,23 +17,6 @@
           "title": "The Hormuz Gambit: Iran's Weaponisation of the Strait and the Dollar–Yuan Currency War of 2026",
           "type": "paper",
           "publisher": "International Security Studies / Geo-Strategic Studies Organisation"
-        }
-      ]
-    },
-    {
-      "title": "تاب‌آوری اقتصادی از کجا می‌آید؟",
-      "slug": "energy-independence-economic-resilience",
-      "summary": "روایتی از پژوهشی دربارهٔ رابطهٔ استقلال انرژی و تاب‌آوری اقتصادی در ۶۸ اقتصاد؛ جایی که کاهش اثر شوک‌های جهانی برای واردکنندگان پررنگ‌تر است، اما صادرکنندگان با چرخهٔ قیمت انرژی و هزینهٔ گذار روبه‌رو می‌شوند.",
-      "topics": [
-        "upstream"
-      ],
-      "featured": false,
-      "reading_minutes": 10,
-      "sources": [
-        {
-          "title": "Energy independence and economic resilience",
-          "type": "paper",
-          "publisher": "Energy Policy / Elsevier"
         }
       ]
     },
@@ -72,7 +38,41 @@
       ]
     },
     {
-      "title": "گذار انرژی، نقشهٔ قدرت را عوض می‌کند",
+      "title": "استقلال انرژی چگونه به تاب‌آوری اقتصادی کمک می‌کند؟",
+      "slug": "energy-independence-economic-resilience",
+      "summary": "روایتی از پژوهشی دربارهٔ رابطهٔ استقلال انرژی و تاب‌آوری اقتصادی در ۶۸ اقتصاد؛ جایی که کاهش اثر شوک‌های جهانی برای واردکنندگان پررنگ‌تر است، اما صادرکنندگان با چرخهٔ قیمت انرژی و هزینهٔ گذار روبه‌رو می‌شوند.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 10,
+      "sources": [
+        {
+          "title": "Energy independence and economic resilience",
+          "type": "paper",
+          "publisher": "Energy Policy / Elsevier"
+        }
+      ]
+    },
+    {
+      "title": "ارزش میدان چطور با چند فرض تغییر می‌کند؟",
+      "slug": "oil-exploration-risk-analysis",
+      "summary": "روایتی از پژوهشی دربارهٔ به‌کارگیری NPV و EMV برای مقایسهٔ پروژه‌های اکتشاف و تولید نفت؛ جایی که تغییر تولید، قیمت، هزینه و سرمایه رتبهٔ گزینه‌ها را جابه‌جا می‌کند.",
+      "topics": [
+        "upstream"
+      ],
+      "featured": false,
+      "reading_minutes": 9,
+      "sources": [
+        {
+          "title": "Risk Analysis Applied in Oil Exploration and Production",
+          "type": "paper",
+          "publisher": "Nigerian Journal of Technology"
+        }
+      ]
+    },
+    {
+      "title": "گذار انرژی چگونه نقشهٔ قدرت را تغییر می‌دهد؟",
       "slug": "energy-transition-geopolitics",
       "summary": "روایتی از گزارش SWP دربارهٔ اینکه برقی‌شدن و فناوری‌های کم‌کربن چگونه وابستگی‌های قدیمی انرژی را جابه‌جا می‌کنند و هم‌زمان ریسک شبکه، سرمایه و فناوری را بالا می‌برند.",
       "topics": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "title": "شرکت نفتی چه وقت ریسک قیمت را می‌پوشاند؟",
+      "title": "شرکت نفتی چه زمانی ریسک قیمت را پوشش می‌دهد؟",
       "slug": "oil-gas-corporate-hedging",
       "summary": "روایتی از مطالعهٔ G. David Haushalter روی ۱۰۰ تولیدکنندهٔ نفت و گاز؛ جایی که اندازه و ریسک پایه تصمیم شروع پوشش را شکل می‌دهند و بدهی و هزینهٔ تأمین مالی مقدار آن را تغییر می‌دهند.",
       "topics": [
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "title": "اقتصاد اول حرکت می‌کند یا انرژی؟",
+      "title": "رشد اقتصادی و مصرف برق؛ چرا پژوهش‌ها به یک پاسخ نمی‌رسند؟",
       "slug": "energy-consumption-economic-growth",
       "summary": "روایتی از فراتحلیل ۳۹ مطالعه و ۱۷۴ نمونه که نشان می‌دهد چرا پژوهش‌ها دربارهٔ رابطهٔ مصرف برق و رشد اقتصادی به یک پاسخ واحد نمی‌رسند.",
       "topics": [
@@ -140,14 +140,14 @@
       ]
     },
     {
-      "title": "چرا قرارداد نفتی به‌تنهایی فناوری نمی‌آورد؟",
+      "title": "چرا قرارداد نفتی به‌تنهایی انتقال فناوری را تضمین نمی‌کند؟",
       "slug": "upstream-technology-transfer-iran",
       "summary": "روایتی از مقالهٔ مسعود درخشان و عاطفه تکلیف دربارهٔ این‌که انتقال فناوری در بالادستی نفت به ظرفیت جذب، یادگیری عملیاتی، اولویت‌گذاری و نهادی نیاز دارد که بازار فناوری را به حرکت درآورد.",
       "topics": [
         "upstream"
       ],
       "featured": false,
-      "reading_minutes": 16,
+      "reading_minutes": 17,
       "sources": [
         {
           "title": "انتقال و توسعه فناوری در بخش بالادستی صنعت نفت ایران: ملاحظاتی در مفاهیم، الزامات، چالش‌ها و راهکارها",
@@ -181,7 +181,7 @@
         "upstream"
       ],
       "featured": false,
-      "reading_minutes": 10,
+      "reading_minutes": 11,
       "sources": [
         {
           "title": "Features of Investment Policy in the Development and Operation of Oil and Gas Fields in the Modern Russian Economy",
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "title": "شرکت ملی نفت؛ خزانه‌دار دولت یا موتور توسعه؟",
+      "title": "شرکت ملی نفت؛ منبع درآمد دولت یا موتور توسعه؟",
       "slug": "nioc-government-financial-relation",
       "summary": "روایتی از گزارش مرکز پژوهش‌های مجلس دربارهٔ اصلاح رابطهٔ مالی شرکت ملی نفت ایران و دولت؛ مسئله‌ای که از سهم هر بشکه شروع می‌شود و به سرمایه‌گذاری، حکمرانی و آیندهٔ تولید می‌رسد.",
       "topics": [
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "title": "ریسک فقط وقتی فوران می‌کند دیده نمی‌شود",
+      "title": "ریسک عملیات نفتی پیش از حادثه دیده می‌شود",
       "slug": "petroleum-operations-risk-management",
       "summary": "بازخوانی روایی مقالهٔ ژانگ یانتینگ و شینگ لی‌یون دربارهٔ ریسک در عملیات نفتی؛ از زمین و هوا تا تجهیزات، آدم‌ها، روابط محلی، سرمایه و سیاست.",
       "topics": [
@@ -286,10 +286,10 @@
     "/topics/upstream/",
     "/topics/midstream/",
     "/topics/downstream/",
-    "/notes/oil-exploration-risk-analysis/",
     "/notes/hormuz-strait-currency-leverage/",
-    "/notes/energy-independence-economic-resilience/",
     "/notes/renewable-energy-security-threshold/",
+    "/notes/energy-independence-economic-resilience/",
+    "/notes/oil-exploration-risk-analysis/",
     "/notes/energy-transition-geopolitics/",
     "/notes/iran-refinery-fuel-oil/",
     "/notes/oil-gas-corporate-hedging/",
